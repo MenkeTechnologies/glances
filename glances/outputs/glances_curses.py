@@ -200,7 +200,7 @@ class _GlancesCurses(object):
                 # White theme: black ==> white
                 curses.init_pair(1, curses.COLOR_BLACK, -1)
             else:
-                curses.init_pair(1, curses.COLOR_WHITE, -1)
+                curses.init_pair(1, curses.COLOR_BLUE, -1)
             if self.args.disable_bg:
                 curses.init_pair(2, curses.COLOR_RED, -1)
                 curses.init_pair(3, curses.COLOR_GREEN, -1)
