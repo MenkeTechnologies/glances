@@ -1,5 +1,7 @@
 ===============================
 Glances - An eye on your system
+===============================
+===============================
 Forked By MenkeTechnologies For Custom Colorization
 ===============================
 
