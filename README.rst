@@ -2,7 +2,7 @@
 Glances - An eye on your system
 ===============================
 ===============================
-Forked By MenkeTechnologies For Custom Colorization
+Forked By MenkeTechnologies For Custom Colorization - Background Text Now Defaults to Blue Color
 ===============================
 
 .. image:: https://img.shields.io/pypi/v/glances.svg
